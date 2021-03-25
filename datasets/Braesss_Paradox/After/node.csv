@@ -1,0 +1,5 @@
+name,node_id,zone_id,node_type,control_type,x_coord,y_coord,geometry
+,1,1,,,,,
+,2,2,,,,,
+,3,,,,,,
+,4,,,,,,
