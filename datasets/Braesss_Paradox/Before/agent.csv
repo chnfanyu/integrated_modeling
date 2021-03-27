@@ -1,5 +1,0 @@
-agent_id,o_zone_id,d_zone_id,path_id,agent_type,demand_period,volume,toll,travel_time,distance,node_sequence,link_sequence,,
-1,1,2,0,0,0,2009.573035,0,85.14179207,46,0;2;1,0;1,,171098.6495
-2,1,2,1,0,0,1990.426965,0,83.6712918,46,0;3;1,2;3,,166541.5954
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,337640.2449
