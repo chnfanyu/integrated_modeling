@@ -10,6 +10,18 @@
  - `agent.csv`  Path performance   
  - `link_performance.csv`  Link performance 
 
+## Network dimensions 
+
+| | Original Network | Modified Network 
+------------ | ------------- | ------------- 
+Zones | 2 | 2 
+Nodes | 4 | 4 
+Links | 4 | 5 
+Paths | 2 | 3 
+
+
+## Network parameters 
+
 Table 1. Network parameters
 Parameters | Link a & b | Link c & d | Link e
 ------------ | ------------- | ------------- | -------------
