@@ -5,8 +5,9 @@
  - `node.csv` Node  
  - `link.csv` Link
  - `demand.csv` Demand  
+ - `setting.csv` Simulation settings
 #### Output files:
- - `agent.csv`  Agent  
+ - `agent.csv`  Path performance   
  - `link_performance.csv` Link performance 
 
 Table 1. Network parameters
