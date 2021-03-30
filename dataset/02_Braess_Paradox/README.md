@@ -1,6 +1,9 @@
 # Braess network
 ## Concepts
 
+<img src="https://github.com/chnfanyu/integrated_modeling/blob/main/dataset/02_Braess_Paradox/img/Capture.PNG" width="320" height="200"> Original network
+<img src="https://github.com/chnfanyu/integrated_modeling/blob/main/dataset/02_Braess_Paradox/img/Capture1.PNG" width="320" height="200"> Modified network
+
 ## Contents
 #### Input files:
  - `node.csv`  Node  
