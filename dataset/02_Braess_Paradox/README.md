@@ -39,7 +39,7 @@ BPR beta | 1 | 0 | 4
 
 ## Modeling summary 
 
-<img src="https://github.com/chnfanyu/integrated_modeling/blob/main/dataset/02_Braess_Paradox/img/Capture2.PNG" width="420" height="300">
+<img src="https://github.com/chnfanyu/integrated_modeling/blob/main/dataset/02_Braess_Paradox/img/Capture2.PNG" width="450" height="250">
 
 #### Overall system statistics summary
 
