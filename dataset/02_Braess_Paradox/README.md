@@ -22,7 +22,6 @@ Paths | 2 | 3
 
 ## Network parameters 
 
-Table 1. Network parameters
 Parameters | Link a & b | Link c & d | Link e
 ------------ | ------------- | ------------- | -------------
 Free flow travel time| 1 | 45 | 0.01
@@ -32,15 +31,18 @@ BPR alpha | 1 | 0 | 0.15
 BPR beta | 1 | 0 | 4
 
 
-Table 2. Overall system summary
+## Modeling summary 
+
+#### Overall system statistics summary
+
 | | Original Network | Modified Network 
 ------------ | ------------- | ------------- 
 Total number of vehicles | 4000 | 4000 
 System-wide total travel time | 264,080 | 328,084 
 Average travel time for each vehicle | 66 | 82 
 
+#### Path performance 
 
-Table 3. Path analysis
 | | Original Network | Modified Network 
 ------------ | ------------- | ------------- 
 Path 1 volume | 2004 | 0 
@@ -51,8 +53,7 @@ Path 3 volume | 0 | 82.2
 Path 3 travel time | 0 | 4000
 
 
-Table 4. Link analysis
-
+#### Link performance 
 
 | |Original Network | Modified Network 
 ------------ | ------------- | ------------- 
