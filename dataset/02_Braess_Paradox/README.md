@@ -1,5 +1,14 @@
 # Braess network
 
+## Contents
+#### Input files:
+ - `node.csv` Node  
+ - `link.csv` Link
+ - `demand.csv` Demand  
+#### Output files:
+ - `agent.csv`  Agent  
+ - `link_performance.csv` Link performance 
+
 Table 1. Network parameters
 Parameters | Link a & b | Link c & d | Link e
 ------------ | ------------- | ------------- | -------------
