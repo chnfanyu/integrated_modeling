@@ -1,6 +1,8 @@
 # Braess network
 ## Concepts
 
+Braess' paradox is the observation that adding one or more roads to a road network can slow down overall traffic flow through it. The paradox was postulated in 1968 by German mathematician Dietrich Braess, who noticed that adding a road to a particular congested road traffic network would increase overall journey tim
+
 <img src="https://github.com/chnfanyu/integrated_modeling/blob/main/dataset/02_Braess_Paradox/img/Capture.PNG" width="320" height="200"> Original network
 <img src="https://github.com/chnfanyu/integrated_modeling/blob/main/dataset/02_Braess_Paradox/img/Capture1.PNG" width="320" height="200"> Modified network
 
