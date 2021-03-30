@@ -11,7 +11,7 @@ BPR beta | 1 | 0 | 4
 
 
 Table 2. Overall system summary
-Parameters | Original Network | Modified Network 
+| | Original Network | Modified Network 
 ------------ | ------------- | ------------- 
 Total number of vehicles | 4000 | 4000 
 System-wide total travel time | 264,080 | 328,084 
@@ -19,7 +19,7 @@ Average travel time for each vehicle | 66 | 82
 
 
 Table 3. Path analysis
-------------| Original Network | Modified Network 
+| | Original Network | Modified Network 
 ------------ | ------------- | ------------- 
 Path 1 volume | 2004 | 0 
 Path 1 travel time | 66.06 | 0 
@@ -30,7 +30,9 @@ Path 3 travel time | 0 | 4000
 
 
 Table 4. Link analysis
-------------| Original Network | Modified Network 
+
+
+| |Original Network | Modified Network 
 ------------ | ------------- | ------------- 
 Link a volume | 2004 | 4000
 Link a travel time | 21.04 | 41 
