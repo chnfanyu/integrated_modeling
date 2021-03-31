@@ -11,7 +11,7 @@ Braess' paradox is the observation that adding one or more roads to a road netwo
  - `node.csv`  Node  
  - `link.csv`  Link
  - `demand.csv`  Demand  
- - `setting.csv`  Simulation settings
+ - `settings.csv`  Simulation settings
 #### Output files:
  - `agent.csv`  Path performance   
  - `link_performance.csv`  Link performance 
